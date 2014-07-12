@@ -20,7 +20,7 @@ Or install it yourself as:
 
 Add
 
-  # = require jquery.total-storage
+    # = require jquery.total-storage
 
 to application.js.coffee
 
