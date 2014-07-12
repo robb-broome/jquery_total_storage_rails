@@ -18,8 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-Add 
-   # = require jquery_total_storage_rails
+Add
+
+  # = require jquery.total-storage
 
 to application.js.coffee
 
